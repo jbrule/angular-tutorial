@@ -6,7 +6,7 @@
     "rxjs": "6.5.2",
     "tslib": "1.10.0",
     "core-js": "2.6.9",
-    "zone.js": "0.9.1",
+    "zone.js": "0.11.4",
     "jasmine-core": "2.99.1",
     "@angular/core": "8.2.3",
     "@angular/forms": "8.2.3",
